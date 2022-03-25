@@ -957,11 +957,6 @@ Ensure the default browser behavior of the `hidden` attribute.
   color: rgb(202 138 4 / var(--tw-text-opacity));
 }
 
-.hover\:text-yellow-500:hover {
-  --tw-text-opacity: 1;
-  color: rgb(234 179 8 / var(--tw-text-opacity));
-}
-
 .hover\:text-gray-800:hover {
   --tw-text-opacity: 1;
   color: rgb(31 41 55 / var(--tw-text-opacity));
